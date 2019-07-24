@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Tc001">
+    <classes>
+      <class name="pack1.excercise1"/>
+      <methods>
+      <include name="method1"></include>
+      <include name="method2"></include>
+      <exclude name="method5"></exclude>
+      </methods>
+    </classes>
+  </test> <!-- Test -->
+  <test name="tc002">
+  <classes>
+      <class name="pack1.excercise1"/>
+  <class name="pack1.excercise1a"/>
+  </classes>
+  </test>
+</suite> <!-- Suite -->

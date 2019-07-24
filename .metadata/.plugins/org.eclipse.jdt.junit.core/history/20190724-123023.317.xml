@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Myrunner" project="cucudemo" tests="1" started="0" failures="0" errors="0" ignored="0">
+  <testcase name="gowthami_runners.Myrunner" classname="gowthami_runners.Myrunner" incomplete="true"/>
+</testrun>

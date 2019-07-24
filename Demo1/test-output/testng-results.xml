@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1270" started-at="2019-07-19T10:43:25Z" finished-at="2019-07-19T10:43:26Z">
+    <groups>
+    </groups>
+    <test name="Tc001" duration-ms="11" started-at="2019-07-19T10:43:25Z" finished-at="2019-07-19T10:43:25Z">
+    </test> <!-- Tc001 -->
+    <test name="tc002" duration-ms="525" started-at="2019-07-19T10:43:26Z" finished-at="2019-07-19T10:43:26Z">
+      <class name="pack1.excercise1a">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:pack1.excercise1a@68c4039c]" name="beforemethod" is-config="true" duration-ms="125" started-at="2019-07-19T10:43:26Z" finished-at="2019-07-19T10:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tmethod3()[pri:0, instance:pack1.excercise1a@68c4039c]" name="tmethod3" duration-ms="9" started-at="2019-07-19T10:43:26Z" finished-at="2019-07-19T10:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tmethod3 -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:pack1.excercise1a@68c4039c]" name="beforemethod" is-config="true" duration-ms="1" started-at="2019-07-19T10:43:26Z" finished-at="2019-07-19T10:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tmethod4()[pri:0, instance:pack1.excercise1a@68c4039c]" name="tmethod4" duration-ms="2" started-at="2019-07-19T10:43:26Z" finished-at="2019-07-19T10:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tmethod4 -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:pack1.excercise1a@68c4039c]" name="afterclass" is-config="true" duration-ms="0" started-at="2019-07-19T10:43:26Z" finished-at="2019-07-19T10:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- pack1.excercise1a -->
+    </test> <!-- tc002 -->
+  </suite> <!-- Suite -->
+</testng-results>

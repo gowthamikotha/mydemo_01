@@ -1,0 +1,18 @@
+package pack1;
+
+import org.testng.annotations.Test;
+
+public class handson1 {
+  @Test(priority=1)
+  public void testgoogle() {
+	  System.out.println("test for google");
+  }
+  @Test(priority=3,enabled=false)
+  public void testfacebook() {
+	  System.out.println("test for facebook");
+  }
+  @Test(priority=2)
+  public void testtwitter() {
+	  System.out.println("test for twitter");
+  }
+}

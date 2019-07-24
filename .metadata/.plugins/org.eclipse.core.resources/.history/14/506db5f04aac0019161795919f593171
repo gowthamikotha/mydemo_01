@@ -1,0 +1,9 @@
+package pack2;
+
+import org.testng.annotations.Test;
+
+public class report123 {
+  @Test
+  public void f() {
+  }
+}

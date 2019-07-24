@@ -1,0 +1,9 @@
+package demo2.demo2;
+
+import org.testng.annotations.Test;
+
+public class excercise1a {
+  @Test
+  public void f() {
+  }
+}

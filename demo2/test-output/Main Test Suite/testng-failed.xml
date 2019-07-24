@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="5" name="Failed suite [Main Test Suite]">
+  <parameter name="OS" value="Windows"/>
+  <parameter name="browser" value="Chrome"/>
+  <test thread-count="5" verbose="5" name="t-02(failed)">
+    <classes>
+      <class name="pack2.rd1">
+        <methods>
+          <include name="f"/>
+          <include name="getResult"/>
+          <include name="afterTest"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- pack2.rd1 -->
+    </classes>
+  </test> <!-- t-02(failed) -->
+</suite> <!-- Failed suite [Main Test Suite] -->

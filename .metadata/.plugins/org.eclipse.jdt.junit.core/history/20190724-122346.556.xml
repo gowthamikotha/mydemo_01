@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Myrunner" project="cucudemo" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="gowthami_runners.Myrunner" time="0.057">
+    <testsuite name="Feature: My validations on American Express" time="0.057">
+      <testcase name="I want to login" classname="My validations on American Express" time="0.041"/>
+      <testcase name="I want to view my membership" classname="My validations on American Express" time="0.016"/>
+    </testsuite>
+  </testsuite>
+</testrun>

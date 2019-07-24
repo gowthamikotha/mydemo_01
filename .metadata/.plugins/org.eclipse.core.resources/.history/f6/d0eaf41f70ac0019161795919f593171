@@ -1,0 +1,9 @@
+package casepack;
+
+import org.testng.annotations.Test;
+
+public class scenario1 {
+  @Test
+  public void f() {
+  }
+}
